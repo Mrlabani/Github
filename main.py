@@ -3,8 +3,8 @@ import telebot
 import requests
 from telebot import types
 
-API_TOKEN = '0000'  # Replace with your actual token
-OWNER_ID = 123456789  # Replace with your actual Telegram user ID
+API_TOKEN = '7383759128:AAHuhFR4rgkRbxD7pSLLVRO-Sts5srcn9GU'  # Replace with your actual token
+OWNER_ID = 6742022802  # Replace with your actual Telegram user ID
 bot = telebot.TeleBot(API_TOKEN)
 
 user_data = {}
